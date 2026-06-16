@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\DESKTOP\RANSOMWARE FYP AA\MY_FYP FRONTEND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/windows" "-BC:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64" --check-stamp-file "C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

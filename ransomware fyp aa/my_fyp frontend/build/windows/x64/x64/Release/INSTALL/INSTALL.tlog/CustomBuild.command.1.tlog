@@ -1,0 +1,10 @@
+^C:\USERS\ADMINISTRATOR\DESKTOP\RANSOMWARE FYP AA\MY_FYP FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\A1A9F0CB8A96E2F06A98D95388F63B80\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

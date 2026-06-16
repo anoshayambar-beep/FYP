@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "alert_385",
+    "time": "2026-06-15T08:03:18.221134+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware indicators found during scan",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": "suspicious_extension"
+        }
+      ]
+    },
+    "username": "alishba125"
+  },
+  {
+    "id": "alert_384",
+    "time": "2026-06-15T07:59:16.173218+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_383",
+    "time": "2026-06-14T14:51:54.677623+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\user_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_382",
+    "time": "2026-06-14T14:49:56.544592+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\test_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_381",
+    "time": "2026-06-14T14:47:05.661306+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\test_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_380",
+    "time": "2026-06-14T14:46:37.800882+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\test_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_379",
+    "time": "2026-06-14T14:46:14.526682+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\test_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_378",
+    "time": "2026-06-14T14:46:14.476740+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\test_threat.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_377",
+    "time": "2026-06-14T13:23:15.888814+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_376",
+    "time": "2026-06-14T13:23:15.882369+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_375",
+    "time": "2026-06-14T13:23:15.889871+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_374",
+    "time": "2026-06-14T13:23:15.886819+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_373",
+    "time": "2026-06-14T13:23:15.884101+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_372",
+    "time": "2026-06-14T13:23:15.882369+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\alishba.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_371",
+    "time": "2026-05-13T04:51:39.850982+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_370",
+    "time": "2026-05-13T04:51:39.826694+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_369",
+    "time": "2026-05-13T04:51:22.669930+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_368",
+    "time": "2026-05-13T01:29:08.291887+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_367",
+    "time": "2026-05-13T01:29:08.287898+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_366",
+    "time": "2026-05-13T01:28:43.650909+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_365",
+    "time": "2026-05-13T01:28:43.759575+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_364",
+    "time": "2026-05-12T18:39:15.621359+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_363",
+    "time": "2026-05-12T18:39:15.614035+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_362",
+    "time": "2026-05-12T18:32:44.027803+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware indicators found during scan",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": "suspicious_extension"
+        }
+      ]
+    },
+    "username": "alishba40"
+  },
+  {
+    "id": "alert_361",
+    "time": "2026-05-12T18:32:10.473759+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_360",
+    "time": "2026-05-12T18:31:13.726120+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_359",
+    "time": "2026-05-12T18:22:32.172960+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_358",
+    "time": "2026-05-12T18:05:23.258958+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\2.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_357",
+    "time": "2026-05-12T18:05:23.243040+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\2.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_356",
+    "time": "2026-05-12T18:01:19.861282+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_355",
+    "time": "2026-05-12T18:01:19.909997+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_354",
+    "time": "2026-05-12T18:01:19.851156+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_353",
+    "time": "2026-05-12T18:01:19.900024+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_352",
+    "time": "2026-05-12T18:01:19.851156+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_351",
+    "time": "2026-05-12T18:01:19.912016+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_350",
+    "time": "2026-05-12T18:01:19.882924+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_349",
+    "time": "2026-05-12T18:01:19.851156+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\1.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_348",
+    "time": "2026-05-12T18:00:36.105625+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_347",
+    "time": "2026-05-12T18:00:09.512119+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_346",
+    "time": "2026-05-12T17:55:08.708221+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_345",
+    "time": "2026-05-12T17:55:08.750219+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_344",
+    "time": "2026-05-12T17:55:08.695895+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_343",
+    "time": "2026-05-12T17:55:08.730200+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_342",
+    "time": "2026-05-12T17:55:08.710859+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_341",
+    "time": "2026-05-12T17:55:08.715240+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_340",
+    "time": "2026-05-12T17:55:08.692297+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt (2).txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_339",
+    "time": "2026-05-12T17:53:56.489269+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_338",
+    "time": "2026-05-12T17:49:50.326229+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_337",
+    "time": "2026-05-12T17:49:50.351433+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_336",
+    "time": "2026-05-12T17:49:50.353419+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_335",
+    "time": "2026-05-12T17:49:50.346702+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_334",
+    "time": "2026-05-12T17:49:50.328159+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_333",
+    "time": "2026-05-12T17:49:50.309312+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_332",
+    "time": "2026-05-12T17:49:50.311738+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\decrypt.txt",
+          "reason": "Ransom note / Decrypt file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_331",
+    "time": "2026-05-12T17:34:55.804559+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_330",
+    "time": "2026-05-12T17:30:30.595271+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_329",
+    "time": "2026-05-12T17:30:30.595271+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_328",
+    "time": "2026-05-12T17:30:30.594451+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_327",
+    "time": "2026-05-12T17:30:30.604239+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_326",
+    "time": "2026-05-12T17:30:30.648135+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_325",
+    "time": "2026-05-12T17:30:30.546406+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (5).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_324",
+    "time": "2026-05-12T17:23:08.433661+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_323",
+    "time": "2026-05-12T17:23:08.477747+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_322",
+    "time": "2026-05-12T17:23:08.442807+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_321",
+    "time": "2026-05-12T17:23:08.522863+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_320",
+    "time": "2026-05-12T17:23:08.474755+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_319",
+    "time": "2026-05-12T17:23:08.425683+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (4).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_318",
+    "time": "2026-05-12T17:22:39.574312+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_317",
+    "time": "2026-05-12T17:22:39.574312+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_316",
+    "time": "2026-05-12T17:22:39.572306+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_315",
+    "time": "2026-05-12T17:22:39.580265+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_314",
+    "time": "2026-05-12T17:22:39.597217+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_313",
+    "time": "2026-05-12T17:22:39.570698+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (3).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_312",
+    "time": "2026-05-12T17:20:10.000138+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_311",
+    "time": "2026-05-12T17:20:10.016596+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_310",
+    "time": "2026-05-12T17:20:10.071119+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_309",
+    "time": "2026-05-12T17:20:09.996153+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_308",
+    "time": "2026-05-12T17:20:10.044219+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_307",
+    "time": "2026-05-12T17:20:09.996153+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_306",
+    "time": "2026-05-12T17:19:40.021344+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_305",
+    "time": "2026-05-12T17:19:40.002763+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_304",
+    "time": "2026-05-12T17:19:40.005100+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_303",
+    "time": "2026-05-12T17:19:40.013410+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_302",
+    "time": "2026-05-12T17:19:40.018766+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_301",
+    "time": "2026-05-12T17:19:40.002763+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a.locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_300",
+    "time": "2026-05-12T17:01:26.093988+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  },
+  {
+    "id": "alert_299",
+    "time": "2026-05-12T17:01:25.033716+00:00",
+    "kind": "ransomware",
+    "message": "Ransomware Activity Detected!",
+    "meta": {
+      "suspicious_files": [
+        {
+          "path": "C:\\Users\\Administrator\\Desktop\\a (2).locked",
+          "reason": ".locked file created"
+        }
+      ]
+    },
+    "username": "system_monitor"
+  }
+]

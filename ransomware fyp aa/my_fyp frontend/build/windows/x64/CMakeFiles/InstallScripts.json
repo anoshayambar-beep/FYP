@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/cmake_install.cmake",
+		"C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/flutter/cmake_install.cmake",
+		"C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/runner/cmake_install.cmake",
+		"C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/plugins/permission_handler_windows/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

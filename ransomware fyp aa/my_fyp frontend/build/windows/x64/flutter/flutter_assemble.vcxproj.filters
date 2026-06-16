@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\ransomware fyp aa\my_fyp frontend\build\windows\x64\CMakeFiles\c62f6fd40c8a5683dcd7d08d3addda63\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\ransomware fyp aa\my_fyp frontend\build\windows\x64\CMakeFiles\a19d016fdf6ecbb9852d4f22cd8c3b98\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\ransomware fyp aa\my_fyp frontend\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Administrator\Desktop\ransomware fyp aa\my_fyp frontend\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{61F4757A-57B8-3A1B-B85C-D2FFAF3F140E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

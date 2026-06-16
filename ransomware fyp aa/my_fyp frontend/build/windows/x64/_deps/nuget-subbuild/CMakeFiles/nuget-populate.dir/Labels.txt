@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/9fab66df36f36c71736042b6fe219e6e/nuget-populate.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/8895e1ec360137c2e6cc8f2446e8ceda/nuget-populate-complete.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-build.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-configure.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-copyfile.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-download.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-install.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-mkdir.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-patch.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-test.rule
+C:/Users/Administrator/Desktop/ransomware fyp aa/my_fyp frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/603431e2716cdd4bd8148212f86d6442/nuget-populate-update.rule
