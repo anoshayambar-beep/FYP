@@ -52,3 +52,19 @@ The system follows a modular architecture consisting of:
 ## Conclusion
 
 This project demonstrates how Machine Learning and Blockchain technologies can be combined to create an effective ransomware detection and secure logging solution. The system provides real-time threat detection, reliable event monitoring, and tamper-resistant log management, making it a valuable contribution to modern cybersecurity practices.
+
+##home page
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1dda9ed2-33d9-4f68-ac7e-f88c1d699670" />
+##Navigation page
+<img width="720" height="1612" alt="image" src="https://github.com/user-attachments/assets/87a53737-66bc-43e5-b199-e2b034d7c7d2" />
+##SignUp page
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d7afab0b-df63-4f95-b4bc-79d4f12021b6" />
+##login page
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22bd2dc3-9736-47a5-a3e6-c94b0f8ee391" />
+##dashbord page
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c74c0eec-c5ae-4562-98c4-589b67630c82" />
+##Screen Detection Result
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/10610294-8ea8-421e-a0c5-36213f597c08" />
+
+
+
